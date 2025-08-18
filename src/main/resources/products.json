@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Producto 1", "description" : "Description for Product1","price": 100.0, "imageUrl" : "http://example.com/product1.jpg", "rating": 4.5, "specifications": "red"},
+  { "id": 2, "name": "Producto 2", "description" : "Description for Product2","price": 200.0, "imageUrl" : "http://example.com/product2.jpg", "rating": 4.0, "specifications": "blue"},
+  { "id": 3, "name": "Producto 3", "description" : "Description for Product3","price": 300.0, "imageUrl" : "http://example.com/product3.jpg", "rating": 3.5, "specifications": "green"},
+  { "id": 4, "name": "Producto 4", "description" : "Description for Product4","price": 400.0, "imageUrl" : "http://example.com/product4.jpg", "rating": 5.0, "specifications": "yellow"},
+  { "id": 5, "name": "Producto 5", "description" : "Description for Product5","price": 500.0, "imageUrl" : "http://example.com/product5.jpg", "rating": 4.8, "specifications": "black"}
+]
